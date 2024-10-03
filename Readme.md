@@ -13,7 +13,5 @@ This project is designed as a machine round for DealsDray Company. It showcases 
 
 [Problem statement](<Intermediate Mern stack machine test  with Web API.xlsx>)
 
-
-
-Uploading demo.mp4…
+https://github.com/user-attachments/assets/079bac8c-8c0f-4fe5-9332-d8c4fbf4c552
 
